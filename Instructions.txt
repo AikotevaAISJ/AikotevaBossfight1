@@ -1,7 +1,7 @@
 Pentashooter 2D Instructions:
 - Press P to play
 - Move using W, A, S, D
-- Move your camera using U, H, J, K
+- Move your camera seperately using U, H, J, K
 - Press SPACE to shoot
 - Hold G to turn small. You cannot shoot while small, but you move at 3x speed
 - You have 3HP, shown in the top-right corner. You lose lives by touching enemies

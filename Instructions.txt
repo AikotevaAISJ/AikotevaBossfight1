@@ -1,0 +1,13 @@
+- Press P to play
+- Move using W, A, S, D
+- Move your camera using U, H, J, K
+- Press SPACE to shoot
+- Hold G to turn small. You cannot shoot while small, but you move at 3x speed
+- You have 3 lives. You lose lives by touching enemies
+- Every time you move, the enemies have a chance to move too
+- Shoot enemies to destroy them. Red enemies have 3 lives, purple enemies have 6 lives
+- Powerups are hidden in some clouds
+- Shoot a Powerup to become invinsible for a short time
+- You cannot shoot or turn small while invinsible, but you can ram enemies instead
+- Avoid the red boundaries, they will hurt you
+- Press ESC to reset the game

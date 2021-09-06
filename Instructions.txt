@@ -1,3 +1,4 @@
+Pentashooter 2D Instructions:
 - Press P to play
 - Move using W, A, S, D
 - Move your camera using U, H, J, K
